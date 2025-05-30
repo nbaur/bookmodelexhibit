@@ -1,10 +1,10 @@
 
 {
-  "collection": "https://github.com/nbaur/UIowaSandbox/blob/main/collections/manifestcollection.json",
-  "metadata": ["Subject", "Date", "Dimensions"],
-  "featured": [
-    "https://nbaur.github.io/UIowaSandbox/images/ui_binding_656/info.json",
-  ],
+"collection": "https://github.com/nbaur/UIowaSandbox/blob/main/collections/manifestcollection.json",
+"metadata": ["Subject", "Date", "Dimensions"],
+"featured": [
+  "https://nbaur.github.io/UIowaSandbox/images/ui_binding_656/info.json"
+]
   "locales": [
     {
       "config": "locales/en.json",
